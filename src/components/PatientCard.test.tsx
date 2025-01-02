@@ -6,7 +6,7 @@ const mockPatient: Patient = {
   picture: "/little_girl.jpg",
   name: "Lorencia Lopez",
   age: 8,
-  diagnose: "Diabetes infantil tipo 2",
+  diagnose: "Diabetes mellitus tipo 2. Paciente pediátrico con sobrepeso. Presentó aumento de sed y micción frecuente",
   link: "#"
 };
 

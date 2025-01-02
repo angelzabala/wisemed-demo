@@ -18,3 +18,20 @@ code {
   column-gap: var(--bulma-column-gap) !important;
   row-gap: var(--bulma-row-gap) !important;
 }
+
+.card.cell{
+  border: 2px solid transparent;
+  box-sizing: border-box;
+  height: 280px;
+}
+.card:hover{
+  border: 2px solid #02e0be !important;
+}
+.card.cell img{
+  border-radius: 50%;
+}
+
+.card.cell .content p{
+  height: 80px;
+  overflow: auto;
+}
